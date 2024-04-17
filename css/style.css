@@ -4,3 +4,11 @@
 .bg-1abc9c{
     background-color: #1abc9c;
 }
+
+input{
+    display: block;
+    width: 100%;
+}
+label{
+    text-align: left;
+}
